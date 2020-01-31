@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: བློ་སྦྱོང་དོན་བདུན་མ་ཕལ་སྐད་ཀྱི་ས་བཀྲལ་བ་བློ་དམན་འཇུག་པའི་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།
+  sku: VVI-015
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: A Gate for Beginners:Seven-Point Mind Training Teachings in Everyday Language
+    bo: བློ་སྦྱོང་དོན་བདུན་མ་ཕལ་སྐད་ཀྱིས་བཀྲལ་བ་བློ་དམན་འཇུག་པའི་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 15
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༡༥
+  author:
+    en: Khenchen Thrangu Rinpoche
+    bo: ༧སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-015
+  category:
+    en: Mind Training
+    bo: བློ་སྦྱོང།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-015.epub
+  description:
+    en: ''
+    bo: ''
