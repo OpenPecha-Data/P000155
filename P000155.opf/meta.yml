@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000155
+initial_creation_type: ebook
+source_metadata:
   title: བློ་སྦྱོང་དོན་བདུན་མ་ཕལ་སྐད་ཀྱི་ས་བཀྲལ་བ་བློ་དམན་འཇུག་པའི་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།
-  sku: VVI-015
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-015
 web_metadata:
   title:
     en: A Gate for Beginners:Seven-Point Mind Training Teachings in Everyday Language
